@@ -1,0 +1,5 @@
+Er- Entity relationship
+Tools for er diagram making (draw.io,)
+crow foot notation  , standard symbol , chen's notation 
+
+steps to create an er diagram 
